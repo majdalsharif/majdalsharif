@@ -1,4 +1,4 @@
-### Salam, I´m Majd :D
+### Salam, I'm Majd :D
 
 - 🌱 I work with NLP - Natural Language Processing.
 - 👯 I’m looking to collaborate on projects that support the Qur'ān and Arabic language.
