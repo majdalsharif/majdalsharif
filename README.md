@@ -17,11 +17,6 @@
 | **Favorite TV Show** | Doctor Who |
 | **Favorite Operating System** | Ubuntu |
 
-<div>
-  <a href="https://github.com/majdalsharif">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=majdalsharif&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majdalsharif&layout=compact&langs_count=7&theme=dark"/>
- <br/>
 
 ![Snake animation](https://github.com/majdalsharif/majdalsharif/blob/output/github-contribution-grid-snake.svg)
 
